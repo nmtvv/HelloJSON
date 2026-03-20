@@ -37,3 +37,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# ficheiros gerados pela aplicação
+data/
+*.csv
+
+# ficheiros do Maven shade
+dependency-reduced-pom.xml
